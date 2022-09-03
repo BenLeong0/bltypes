@@ -1,4 +1,4 @@
-from bltypes.yo.example import add_one
+from yo.example import add_one
 
 
 name = "bltypes"
